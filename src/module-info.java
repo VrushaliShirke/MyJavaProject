@@ -1,0 +1,2 @@
+module Loos_Hw {
+}
